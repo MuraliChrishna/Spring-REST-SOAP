@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.muralikrishna.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.muralikrishna.com/Patient Patient.xsd ">
+  <tns:id>500018</tns:id>
+  <tns:name>Murali Krishna</tns:name>
+  <tns:age>25</tns:age>
+  <tns:dob>2001-01-01</tns:dob>
+  <tns:email>tns:email</tns:email>
+  <tns:gender>male</tns:gender>
+  <tns:phone>4124124124</tns:phone>
+</tns:patient>
