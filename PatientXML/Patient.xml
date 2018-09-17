@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:patient xmlns:tns="http://www.muralikrishna.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.muralikrishna.com/Patient Patient.xsd ">
+<tns:patient xmlns:tns="http://www.muralikrishna.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.muralikrishna.com/Patient Patient.xsd ">
   <tns:id>500018</tns:id>
-  <tns:name>Murali Krishna</tns:name>
-  <tns:age>25</tns:age>
+  <tns:name>tns:name</tns:name>
+  <tns:age>0</tns:age>
   <tns:dob>2001-01-01</tns:dob>
   <tns:email>tns:email</tns:email>
-  <tns:gender>male</tns:gender>
-  <tns:phone>4124124124</tns:phone>
+  <tns:gender>tns:gender</tns:gender>
+  <tns:phone>tns:phone</tns:phone>
+  <tns:payment>
+    <tns:insurance>
+    <tns:limit>1000</tns:limit>
+    <tns:provider>blue cross</tns:provider>
+    </tns:insurance>
+  </tns:payment>
 </tns:patient>
