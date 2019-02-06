@@ -1161,3 +1161,361 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2019-02-04 21:13:19,567 [Worker-265: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/springcore/src/main/resources
 2019-02-04 21:13:19,568 [Worker-265: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-02-04 21:13:19,568 [Worker-265: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/springcore/src/test/resources
+2019-02-05 21:05:06,844 [Worker-301: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml
+2019-02-05 21:05:07,097 [Worker-301: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:05:07,121 [Worker-301: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JaxbXJC/src/main/java
+2019-02-05 21:05:07,123 [Worker-301: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JaxbXJC/src/test/java
+2019-02-05 21:05:07,171 [Worker-301: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-02-05 21:05:07,408 [Worker-300: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:05:07,408 [Worker-300: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:05:07,409 [Worker-300: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:05:07,409 [Worker-300: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:06:31,203 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:06:31,203 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:06:31,203 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:06:31,203 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:07:11,480 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:07:11,480 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:07:11,481 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:07:11,481 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:09:13,900 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.pom
+2019-02-05 21:09:13,920 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.pom
+2019-02-05 21:09:13,961 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.14.0/maven-jaxb2-plugin-project-0.14.0.pom
+2019-02-05 21:09:14,014 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.14.0/maven-jaxb2-plugin-project-0.14.0.pom
+2019-02-05 21:09:14,056 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.jar
+2019-02-05 21:09:14,162 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.14.0/maven-jaxb2-plugin-0.14.0.jar
+2019-02-05 21:09:14,185 [Worker-301: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:09:14,305 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.pom
+2019-02-05 21:09:14,341 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.pom
+2019-02-05 21:09:14,374 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2019-02-05 21:09:14,421 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2019-02-05 21:09:14,454 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2019-02-05 21:09:14,508 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2019-02-05 21:09:14,547 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.pom
+2019-02-05 21:09:14,571 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.pom
+2019-02-05 21:09:14,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2019-02-05 21:09:14,651 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2019-02-05 21:09:14,694 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2019-02-05 21:09:14,718 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2019-02-05 21:09:14,740 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.pom
+2019-02-05 21:09:14,761 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.pom
+2019-02-05 21:09:14,786 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.0/jaxb-txw-parent-2.3.0.pom
+2019-02-05 21:09:14,805 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.0/jaxb-txw-parent-2.3.0.pom
+2019-02-05 21:09:14,851 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom
+2019-02-05 21:09:14,882 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.0/jaxb-parent-2.3.0.pom
+2019-02-05 21:09:14,917 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom
+2019-02-05 21:09:14,939 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.0/jaxb-bom-ext-2.3.0.pom
+2019-02-05 21:09:14,963 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom
+2019-02-05 21:09:14,991 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.0/jaxb-bom-2.3.0.pom
+2019-02-05 21:09:15,027 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2019-02-05 21:09:15,057 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2019-02-05 21:09:15,088 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2019-02-05 21:09:15,113 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2019-02-05 21:09:15,135 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2019-02-05 21:09:15,155 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2019-02-05 21:09:15,202 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2019-02-05 21:09:15,223 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.pom
+2019-02-05 21:09:15,249 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2019-02-05 21:09:15,269 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2019-02-05 21:09:15,291 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2019-02-05 21:09:15,316 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2019-02-05 21:09:15,346 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/30/maven-parent-30.pom
+2019-02-05 21:09:15,376 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/30/maven-parent-30.pom
+2019-02-05 21:09:15,422 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2019-02-05 21:09:15,461 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2019-02-05 21:09:15,500 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.pom
+2019-02-05 21:09:15,523 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.pom
+2019-02-05 21:09:15,547 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.pom
+2019-02-05 21:09:15,572 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.pom
+2019-02-05 21:09:15,607 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.0/jaxb-runtime-parent-2.3.0.pom
+2019-02-05 21:09:15,629 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.0/jaxb-runtime-parent-2.3.0.pom
+2019-02-05 21:09:15,659 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.pom
+2019-02-05 21:09:15,678 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.pom
+2019-02-05 21:09:15,700 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2019-02-05 21:09:15,724 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2019-02-05 21:09:15,759 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2019-02-05 21:09:15,784 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2019-02-05 21:09:15,820 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.pom
+2019-02-05 21:09:15,849 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.pom
+2019-02-05 21:09:15,873 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.5/istack-commons-3.0.5.pom
+2019-02-05 21:09:15,902 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.5/istack-commons-3.0.5.pom
+2019-02-05 21:09:15,961 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2019-02-05 21:09:15,983 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.pom
+2019-02-05 21:09:16,022 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2019-02-05 21:09:16,073 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2019-02-05 21:09:16,128 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.pom
+2019-02-05 21:09:16,161 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.pom
+2019-02-05 21:09:16,185 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.13/fastinfoset-project-1.2.13.pom
+2019-02-05 21:09:16,210 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.13/fastinfoset-project-1.2.13.pom
+2019-02-05 21:09:16,249 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.pom
+2019-02-05 21:09:16,277 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.pom
+2019-02-05 21:09:16,310 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.pom
+2019-02-05 21:09:16,337 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.pom
+2019-02-05 21:09:16,372 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.pom
+2019-02-05 21:09:16,409 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.pom
+2019-02-05 21:09:16,443 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.pom
+2019-02-05 21:09:16,468 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.pom
+2019-02-05 21:09:16,492 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.pom
+2019-02-05 21:09:16,518 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.pom
+2019-02-05 21:09:16,549 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-codemodel-parent/2.3.0/jaxb-codemodel-parent-2.3.0.pom
+2019-02-05 21:09:16,573 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-codemodel-parent/2.3.0/jaxb-codemodel-parent-2.3.0.pom
+2019-02-05 21:09:16,600 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.pom
+2019-02-05 21:09:16,637 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.pom
+2019-02-05 21:09:16,699 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-external-parent/2.3.0/jaxb-external-parent-2.3.0.pom
+2019-02-05 21:09:16,732 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-external-parent/2.3.0/jaxb-external-parent-2.3.0.pom
+2019-02-05 21:09:16,760 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.pom
+2019-02-05 21:09:16,786 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.pom
+2019-02-05 21:09:16,824 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2019-02-05 21:09:16,847 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2019-02-05 21:09:16,873 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.pom
+2019-02-05 21:09:16,895 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.pom
+2019-02-05 21:09:16,918 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2019-02-05 21:09:16,952 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+2019-02-05 21:09:16,976 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2019-02-05 21:09:17,005 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2019-02-05 21:09:17,059 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2019-02-05 21:09:17,083 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2019-02-05 21:09:17,122 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.jar
+2019-02-05 21:09:17,184 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.14.0/maven-jaxb2-plugin-core-0.14.0.jar
+2019-02-05 21:09:17,218 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2019-02-05 21:09:17,251 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+2019-02-05 21:09:17,292 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2019-02-05 21:09:17,573 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2019-02-05 21:09:17,621 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2019-02-05 21:09:17,681 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2019-02-05 21:09:17,730 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.jar
+2019-02-05 21:09:17,765 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.0/txw2-2.3.0.jar
+2019-02-05 21:09:17,791 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2019-02-05 21:09:17,815 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2019-02-05 21:09:17,853 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2019-02-05 21:09:17,984 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2019-02-05 21:09:18,024 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2019-02-05 21:09:18,138 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+2019-02-05 21:09:18,173 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.jar
+2019-02-05 21:09:18,212 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb23-plugin/0.14.0/maven-jaxb23-plugin-0.14.0.jar
+2019-02-05 21:09:18,301 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.jar
+2019-02-05 21:09:18,706 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.0/jaxb-runtime-2.3.0.jar
+2019-02-05 21:09:18,749 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.jar
+2019-02-05 21:09:18,805 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/2.3.0/jaxb-core-2.3.0.jar
+2019-02-05 21:09:18,834 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2019-02-05 21:09:18,902 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2019-02-05 21:09:18,950 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2019-02-05 21:09:18,983 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.7.8/stax-ex-1.7.8.jar
+2019-02-05 21:09:19,020 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.jar
+2019-02-05 21:09:19,171 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.13/FastInfoset-1.2.13.jar
+2019-02-05 21:09:19,206 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.jar
+2019-02-05 21:09:19,277 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc-jdk9/2.3.0/jaxb-xjc-jdk9-2.3.0.jar
+2019-02-05 21:09:19,340 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.jar
+2019-02-05 21:09:19,819 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-xjc/2.3.0/jaxb-xjc-2.3.0.jar
+2019-02-05 21:09:19,884 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.jar
+2019-02-05 21:09:19,950 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/dtd-parser/dtd-parser/1.2/dtd-parser-1.2.jar
+2019-02-05 21:09:20,003 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.jar
+2019-02-05 21:09:20,284 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/xsom/2.3.0/xsom-2.3.0.jar
+2019-02-05 21:09:20,377 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.jar
+2019-02-05 21:09:20,493 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/codemodel/2.3.0/codemodel-2.3.0.jar
+2019-02-05 21:09:20,545 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.jar
+2019-02-05 21:09:20,652 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/external/rngom/2.3.0/rngom-2.3.0.jar
+2019-02-05 21:09:20,688 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.jar
+2019-02-05 21:09:20,716 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-tools/3.0.5/istack-commons-tools-3.0.5.jar
+2019-02-05 21:09:20,744 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.jar
+2019-02-05 21:09:20,777 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.5/istack-commons-runtime-3.0.5.jar
+2019-02-05 21:09:20,815 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar
+2019-02-05 21:09:20,838 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar
+2019-02-05 21:09:20,865 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2019-02-05 21:09:20,905 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar
+2019-02-05 21:09:20,937 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2019-02-05 21:09:20,960 [Worker-301: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2019-02-05 21:09:21,351 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:09:21,875 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:09:21,878 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:09:21,878 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:09:21,883 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:09:21,883 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:09:21,884 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:10:15,350 [Worker-287: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:10:15,568 [Worker-287: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2019-02-05 21:10:15,570 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:10:15,570 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:10:15,570 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:10:15,570 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:10:15,571 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:10:58,143 [Worker-301: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:10:58,353 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:10:58.000], earliest timestamp of the target resources is [2019-02-05 21:09:21.000].
+2019-02-05 21:10:58,353 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:10:58,594 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:10:58,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:10:58,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:10:58,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:10:58,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:10:58,598 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:13:46,350 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:10:58.000], earliest timestamp of the target resources is [2019-02-05 21:10:58.000].
+2019-02-05 21:13:46,350 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:13:46,381 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:13:46,381 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:13:46,381 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:13:46,382 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:13:46,382 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:13:46,382 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:14:24,113 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:14:23.000], earliest timestamp of the target resources is [2019-02-05 21:13:46.000].
+2019-02-05 21:14:24,113 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:14:24,139 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:14:24,140 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:24,140 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:14:24,140 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:14:24,141 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:24,141 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:14:32,338 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 21:14:32,338 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 21:14:32,338 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:32,339 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:14:32,339 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated
+2019-02-05 21:14:32,339 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:32,339 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:14:50,455 [Worker-312: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:14:50,617 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:14:50,828 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:14:50,830 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:50,830 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:14:50,830 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:14:50,830 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:14:50,830 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:16:34,130 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:16:34.000], earliest timestamp of the target resources is [2019-02-05 21:14:50.000].
+2019-02-05 21:16:34,130 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:16:34,418 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:16:34,418 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:16:34,418 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:16:34,419 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:16:34,419 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:16:34,419 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:16:43,255 [Worker-287: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:16:43,428 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:16:43.000], earliest timestamp of the target resources is [2019-02-05 21:16:34.000].
+2019-02-05 21:16:43,428 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:16:43,828 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:16:43,829 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:16:43,829 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:16:43,830 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:16:43,830 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:16:43,830 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:18:16,502 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 21:18:16,502 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 21:18:16,503 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:18:16,503 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:18:16,504 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 21:18:16,510 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:18:16,510 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:20:29,999 [Worker-301: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 21:20:30,142 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 21:20:29.000], earliest timestamp of the target resources is [2019-02-05 21:16:43.000].
+2019-02-05 21:20:30,142 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 21:20:30,547 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 21:20:30,549 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:20:30,549 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:20:30,549 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 21:20:30,550 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:20:30,550 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 21:20:31,618 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 21:20:31,618 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 21:20:31,619 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:20:31,619 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 21:20:31,620 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 21:20:31,620 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 21:20:31,620 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:03:35,539 [Worker-314: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krishna.jaxb:JaxbXJC:0.0.1-SNAPSHOT @ /Users/krishna/Documents/SpringToolSuite/JaxbXJC/pom.xml.
+2019-02-05 22:03:35,716 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Latest timestamp of the source resources is [2019-02-05 22:03:35.000], earliest timestamp of the target resources is [2019-02-05 21:20:30.000].
+2019-02-05 22:03:35,716 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are not up-to-date, XJC will be executed.
+2019-02-05 22:03:36,173 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Episode file [/Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/generated/META-INF/sun-jaxb.episode] was augmented with if-exists="true" attributes.
+2019-02-05 22:03:36,175 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:03:36,175 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:03:36,175 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-05 22:03:36,177 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:03:36,177 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:03:37,276 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:03:37,277 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:03:37,277 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:03:37,277 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:03:37,279 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:03:37,279 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:03:37,280 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:05:20,125 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:05:20,125 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:05:20,125 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:05:20,125 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:05:20,126 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:05:20,127 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:05:20,127 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:10:08,397 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:10:08,397 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:10:08,398 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:10:08,398 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:10:08,399 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:10:08,400 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:10:08,400 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:10:26,495 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:10:26,495 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:10:26,496 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:10:26,496 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:10:26,497 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:10:26,497 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:10:26,497 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:12:05,976 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:12:05,976 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:12:05,977 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:05,977 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:12:05,978 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:12:05,979 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:05,979 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:12:51,526 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:12:51,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:12:51,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:51,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:12:51,528 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:12:51,529 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:51,529 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:12:55,538 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:12:55,538 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:12:55,539 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:55,539 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:12:55,540 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:12:55,541 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:12:55,541 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:16:01,644 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:16:01,644 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:16:01,644 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:16:01,645 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:16:01,646 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:16:01,646 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:16:01,646 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:16:31,133 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:16:31,133 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:16:31,134 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:16:31,134 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:16:31,135 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:16:31,136 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:16:31,136 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:19:49,877 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:19:49,877 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:19:49,877 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:19:49,877 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:19:49,879 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:19:49,879 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:19:49,879 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:22:21,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:22:21,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:22:21,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:22:21,527 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:22:21,528 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:22:21,529 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:22:21,529 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:23:35,881 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:23:35,881 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:23:35,882 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:23:35,883 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:23:35,884 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:23:35,884 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:23:35,884 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
+2019-02-05 22:23:53,902 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - According to the build context, all of the [dependURIs] are up-to-date.
+2019-02-05 22:23:53,902 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Sources are up-to-date, XJC will be skipped.
+2019-02-05 22:23:53,902 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:23:53,902 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/main/resources
+2019-02-05 22:23:53,903 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-05 22:23:53,904 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-05 22:23:53,904 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krishna/Documents/SpringToolSuite/JaxbXJC/src/test/resources
