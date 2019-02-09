@@ -8,7 +8,7 @@ public class WorkoutMain {
 		
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
 
-		Coach myCoach = context.getBean("theCricCoach", Coach.class);
+		Coach myCoach = context.getBean("cricCoach", Coach.class);
 		
 		Coach BaseCoach = context.getBean("baseBallCoach", Coach.class);
 		

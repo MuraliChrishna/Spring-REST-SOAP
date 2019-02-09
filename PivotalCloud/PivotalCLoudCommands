@@ -1,0 +1,30 @@
+CLoudFoundry:- 
+
+OpenSource platform as a service for running polyglot apllications in
+ public or private environments
+
+
+
+polyglot:- we can work with diff languages.
+
+
+
+Architecture :-
+
+Bottom up :- 
+
+
+Metrics
+
+Messaging layer(NATS)
+
+Services 
+
+App Executions, Blob storage(Holds code)
+
+App life cycle
+
+Authentication
+
+Router
+

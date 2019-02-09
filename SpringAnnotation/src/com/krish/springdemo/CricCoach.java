@@ -1,11 +1,14 @@
 package com.krish.springdemo;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
-@Component("theCricCoach")
+@Component
 public class CricCoach implements Coach {
+	
 	@Autowired
+	@Qualifier("happyFortune")
 	private FortuneTelling fortuneTelling; 
 	
 	
